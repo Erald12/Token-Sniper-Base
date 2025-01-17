@@ -40,7 +40,7 @@ Setup:
 
 Running the Script
 To start monitoring new token creations and liquidity checks, run the following command:
-python token_sniper_base.py
+"BASE TOKEN SNIPER 2.py"
 
 The script will continuously monitor the latest blocks for new tokens and check liquidity on the DEX.
 
